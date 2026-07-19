@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Moughees 👋
 
-<!--
-**mougheeskhalid/mougheeskhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python / Odoo ERP Developer** based in Lahore, Pakistan.
 
-Here are some ideas to get you started:
+I build and customize full-stack Odoo ERP solutions (v14–v19) — Sales, Purchase, Inventory, Accounting, Manufacturing, HRMS, CRM, Project, Contacts, and POS — plus REST API integrations connecting Odoo to external systems, and independent Django projects on the side.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 **Backend:** Python, Django, PostgreSQL, REST APIs
+- 🎨 **Frontend:** JavaScript, HTML, CSS, XML
+- 🧩 **Odoo Expertise:** Odoo v14, v16–v19 · Odoo Enterprise · Odoo ORM · QWeb Reports · Views Customization · Security Rules · Wizards · Server Actions
+- 🛠️ **Data & Tools:** NumPy, Pandas, DSA, Git, Excel Reports
+
+**Currently:** open to new Odoo/ERP freelance projects and consulting work.
+
+**📫 Reach me:** [Portfolio](https://mougheeskhalid.github.io/moughees-portfolio/) · [Upwork](https://www.upwork.com/freelancers/~016a6fd88adbe4f135) · [LinkedIn](https://linkedin.com/in/moughees-khalid-0255a8253) · [Email](mailto:mougheeskhalidsaleem@gmail.com)
